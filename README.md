@@ -87,6 +87,7 @@ The rules of referral, pro edition:
 - **Lead with value, not the link.** Nobody signs up because you posted a bare link. They sign up because your guide, your entry, or your explanation helped them first. This playbook is my version of that: the link is at the top, but the value is the whole page.
 - **Put the link where builders already are.** Your GitHub README (like this one), your profile bio, the footer of anything you ship. One link, everywhere it is relevant, nowhere it is spam.
 - **Track what works.** If a post brings ten clicks and zero signups, the audience was wrong, not the link. If a guide brings three signups, write more guides.
+- **Work a concrete example.** Say a guide like this one brings 4 verified signups in its first week, and a second guide the next week brings 6. That is 10 verified humans from two pages you wrote once. The pages keep working while you build scored entries — that is the whole point of a referral engine: effort you spend once, receipts that arrive for weeks.
 - **Say it plainly.** My code is `vka15622`. My link is https://make.fun/r/vka15622. If this playbook helped you, signing up through it is the way to say thanks — and it costs you nothing.
 
 ## 8. Multi-bounty strategy: stacking a season
